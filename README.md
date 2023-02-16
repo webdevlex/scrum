@@ -57,4 +57,10 @@ url: https://website.com/
 
 ## Authors
 
+**Alex Ly**
+**Santiago Rueda**
+**Mya Choi**
+**Hailey Verdone**
+**Vahl Sarmiento**
+**William Lua**
 **Alexis Martin**

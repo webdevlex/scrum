@@ -63,4 +63,4 @@ url: https://website.com/
 **Hailey Verdone**\
 **Vahl Sarmiento**\
 **William Lua**\
-**Alexis Martin**\
+**Alexis Martin**

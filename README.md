@@ -57,7 +57,7 @@ url: https://website.com/
 
 ## Authors
 
-**Alex Ly**
+**Alex Ly**\
 **Santiago Rueda**
 **Mya Choi**
 **Hailey Verdone**
